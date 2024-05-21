@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "g": "^2.0.1",
+    "gaxios": "^6.6.0",
+    "google-auth-library": "^9.9.0",
+    "googleapis": "^137.1.0",
+    "nodemon": "^3.1.0"
+  }
+}
